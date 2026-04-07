@@ -1,4 +1,8 @@
 import satoruGojoPerfil from '../images/characters/satoru-gojo.png'
+import megumiPerfil from '../images/characters/megumi.png'
+import aioTodoPerfil from '../images/characters/Aoi-Todo.png'
+import nobaraPerfil from '../images/characters/Nobara_Kugisaki.png'
+import yujiPerfil from '../images/characters/yuji-itadori.png'
 
 export type Character = {
     id: number;
@@ -14,20 +18,20 @@ export const characters: Character[] = [{
 {
     id: 2,
     name: 'Megumi Fushiguro',
-    image: satoruGojoPerfil,
+    image: megumiPerfil,
 },
 {
     id: 3,
     name: 'Nobara Kugisaki',
-    image: satoruGojoPerfil,
+    image: nobaraPerfil,
 },
 {
     id: 4,
     name: 'Yuji Itadori',
-    image: satoruGojoPerfil,
+    image: yujiPerfil,
 },
 {
     id: 5,
     name: 'Aoi Todo',
-    image: satoruGojoPerfil,
+    image: aioTodoPerfil,
 },];
