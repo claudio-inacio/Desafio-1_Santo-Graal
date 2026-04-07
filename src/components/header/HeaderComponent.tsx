@@ -1,5 +1,5 @@
 
-import logo1 from "../../img/logo-jujutsu-removebg.png"
+import logo1 from "../../images/logo-jujutsu-removebg.png"
 import ImageLogo from "./ImageLogo"
 import MenuButton from "./MenuButton"
 
